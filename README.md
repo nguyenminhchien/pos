@@ -32,12 +32,13 @@ addon | version | maintainers | summary
 [pos_divide_order_summary](pos_divide_order_summary/) | 18.0.1.0.1 | <a href='https://github.com/henrybackman'><img src='https://github.com/henrybackman.png' width='32' height='32' style='border-radius:50%;' alt='henrybackman'/></a> | POS - Divider order summary
 [pos_lot_barcode](pos_lot_barcode/) | 18.0.1.0.1 |  | Scan barcode to enter lot/serial numbers
 [pos_margin](pos_margin/) | 18.0.1.1.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Margin on PoS Order
-[pos_order_remove_line](pos_order_remove_line/) | 18.0.1.0.0 | <a href='https://github.com/robyf70'><img src='https://github.com/robyf70.png' width='32' height='32' style='border-radius:50%;' alt='robyf70'/></a> | Add button to remove POS order line.
+[pos_order_remove_line](pos_order_remove_line/) | 18.0.1.0.1 | <a href='https://github.com/robyf70'><img src='https://github.com/robyf70.png' width='32' height='32' style='border-radius:50%;' alt='robyf70'/></a> | Add button to remove POS order line.
 [pos_order_to_sale_order](pos_order_to_sale_order/) | 18.0.1.1.2 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | PoS Order To Sale Order
 [pos_partner_birthdate](pos_partner_birthdate/) | 18.0.1.0.0 | <a href='https://github.com/ecino'><img src='https://github.com/ecino.png' width='32' height='32' style='border-radius:50%;' alt='ecino'/></a> | Adds the birthdate in the customer screen of POS
 [pos_payment_method_cashdro](pos_payment_method_cashdro/) | 18.0.1.0.2 |  | Allows to pay with CashDro Terminals on the Point of Sale
 [pos_payment_terminal](pos_payment_terminal/) | 18.0.1.0.0 |  | Point of sale: support generic payment terminal
 [pos_product_display_default_code](pos_product_display_default_code/) | 18.0.1.0.1 |  | pos: display product default code before product name
+[pos_product_expiry](pos_product_expiry/) | 18.0.1.0.0 |  | Evaluate expiry of lot
 [pos_product_multi_barcode](pos_product_multi_barcode/) | 18.0.1.0.0 |  | Make product multi barcodes usable in the point of sale
 [pos_report_session_summary](pos_report_session_summary/) | 18.0.1.0.0 |  | Adds a Session Summary PDF report on the POS session
 [pos_sale_picking_keep](pos_sale_picking_keep/) | 18.0.1.0.2 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Keep sale pickings from PoS
@@ -45,7 +46,7 @@ addon | version | maintainers | summary
 [pos_session_sequence](pos_session_sequence/) | 18.0.1.0.0 | <a href='https://github.com/peluko00'><img src='https://github.com/peluko00.png' width='32' height='32' style='border-radius:50%;' alt='peluko00'/></a> | Generates a sequence of POS sessions
 [pos_supplierinfo_search](pos_supplierinfo_search/) | 18.0.1.0.0 | <a href='https://github.com/eLBati'><img src='https://github.com/eLBati.png' width='32' height='32' style='border-radius:50%;' alt='eLBati'/></a> | Search products by supplier data
 [pos_user_restrict_provider_info](pos_user_restrict_provider_info/) | 18.0.1.0.0 | <a href='https://github.com/BernatObrador'><img src='https://github.com/BernatObrador.png' width='32' height='32' style='border-radius:50%;' alt='BernatObrador'/></a> | Restrict provider info to pos users
-[pos_user_restriction](pos_user_restriction/) | 18.0.1.0.0 | <a href='https://github.com/eLBati'><img src='https://github.com/eLBati.png' width='32' height='32' style='border-radius:50%;' alt='eLBati'/></a> | Restrict some users to see and use only certain points of sale
+[pos_user_restriction](pos_user_restriction/) | 18.0.1.0.1 | <a href='https://github.com/eLBati'><img src='https://github.com/eLBati.png' width='32' height='32' style='border-radius:50%;' alt='eLBati'/></a> | Restrict some users to see and use only certain points of sale
 
 [//]: # (end addons)
 
